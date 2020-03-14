@@ -1,0 +1,1394 @@
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:11:00 
+Total number of hits: 99 
+
+Most hits: 
+(1) api: 66 
+(2) report: 33 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1     14
+2     api          GET   10.0.0.3     11
+4     api          GET   10.0.0.5     11
+1     api          GET   10.0.0.2     10
+3     api          GET   10.0.0.4      7 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    404   10.0.0.1      4
+2    404   10.0.0.3      3
+3    500   10.0.0.1      3
+4    404   10.0.0.5      2
+5    404   10.0.0.2      1 
+
+Bytes Load: 
+mean: 	 1236.74 
+std: 	 46.69 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:11:10 
+Total number of hits: 81 
+
+Most hits: 
+(1) api: 54 
+(2) report: 27 
+ 
+Top 5 most hits details: 
+   section request_type remotehost  count
+0      api          GET   10.0.0.1     24
+1      api          GET   10.0.0.2      9
+4      api          GET   10.0.0.5      8
+9   report          GET   10.0.0.1      8
+10  report          GET   10.0.0.2      5 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    404   10.0.0.1      4
+2    500   10.0.0.2      3
+3    404   10.0.0.2      2
+4    500   10.0.0.1      2
+5    404   10.0.0.5      1 
+
+Bytes Load: 
+mean: 	 1234.44 
+std: 	 46.74 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:11:20 
+Total number of hits: 91 
+
+Most hits: 
+(1) api: 61 
+(2) report: 30 
+ 
+Top 5 most hits details: 
+   section request_type remotehost  count
+0      api          GET   10.0.0.1     15
+4      api          GET   10.0.0.5     15
+1      api          GET   10.0.0.2     10
+10  report          GET   10.0.0.1      9
+2      api          GET   10.0.0.3      7 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    404   10.0.0.1      6
+2    404   10.0.0.5      3
+3    404   10.0.0.2      2
+4    500   10.0.0.1      2
+5    500   10.0.0.4      2 
+
+Bytes Load: 
+mean: 	 1228.98 
+std: 	 47.08 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:11:30 
+Total number of hits: 97 
+
+Most hits: 
+(1) api: 65 
+(2) report: 32 
+ 
+Top 5 most hits details: 
+   section request_type remotehost  count
+1      api          GET   10.0.0.2     14
+5      api         POST   10.0.0.1     14
+0      api          GET   10.0.0.1     13
+10  report          GET   10.0.0.1      9
+4      api          GET   10.0.0.5      8 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    404   10.0.0.1      6
+2    404   10.0.0.5      5
+3    500   10.0.0.1      5
+4    404   10.0.0.2      4
+5    404   10.0.0.4      2 
+
+Bytes Load: 
+mean: 	 1228.74 
+std: 	 37.81 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:11:40 
+Total number of hits: 91 
+
+Most hits: 
+(1) api: 60 
+(2) report: 31 
+ 
+Top 5 most hits details: 
+   section request_type remotehost  count
+0      api          GET   10.0.0.1     15
+1      api          GET   10.0.0.2     11
+10  report          GET   10.0.0.1     11
+4      api          GET   10.0.0.5      9
+3      api          GET   10.0.0.4      7 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    404   10.0.0.1      4
+2    500   10.0.0.1      2
+3    500   10.0.0.4      2
+4    500   10.0.0.5      2
+5    404   10.0.0.4      1 
+
+Bytes Load: 
+mean: 	 1219.01 
+std: 	 49.09 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:11:50 
+Total number of hits: 83 
+
+Most hits: 
+(1) api: 56 
+(2) report: 27 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1     12
+1     api          GET   10.0.0.2     12
+6     api         POST   10.0.0.2      7
+3     api          GET   10.0.0.4      6
+4     api          GET   10.0.0.5      6 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    404   10.0.0.1      2
+2    404   10.0.0.2      2
+3    404   10.0.0.4      2
+4    500   10.0.0.1      2
+5    500   10.0.0.4      2 
+
+Bytes Load: 
+mean: 	 1224.37 
+std: 	 49.71 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:12:00 
+Total number of hits: 185 
+
+Most hits: 
+(1) api: 155 
+(2) report: 30 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1     34
+4     api          GET   10.0.0.5     29
+1     api          GET   10.0.0.2     23
+3     api          GET   10.0.0.4     18
+5     api         POST   10.0.0.1     15 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.1     10
+2    404   10.0.0.1      8
+3    404   10.0.0.5      8
+4    500   10.0.0.2      8
+5    404   10.0.0.4      4 
+
+Bytes Load: 
+mean: 	 1228.14 
+std: 	 44.04 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:12:10 
+Total number of hits: 182 
+
+Most hits: 
+(1) api: 152 
+(2) report: 30 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1     41
+4     api          GET   10.0.0.5     24
+2     api          GET   10.0.0.3     17
+1     api          GET   10.0.0.2     16
+5     api         POST   10.0.0.1     15 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.1      7
+2    500   10.0.0.5      7
+3    500   10.0.0.2      6
+4    404   10.0.0.1      4
+5    404   10.0.0.5      4 
+
+Bytes Load: 
+mean: 	 1228.54 
+std: 	 45.03 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:12:20 
+Total number of hits: 173 
+
+Most hits: 
+(1) api: 143 
+(2) report: 30 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1     35
+1     api          GET   10.0.0.2     26
+4     api          GET   10.0.0.5     24
+3     api          GET   10.0.0.4     14
+6     api         POST   10.0.0.2     13 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.2      8
+2    500   10.0.0.1      7
+3    404   10.0.0.1      5
+4    404   10.0.0.5      4
+5    500   10.0.0.5      4 
+
+Bytes Load: 
+mean: 	 1231.01 
+std: 	 43.74 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Alert 
+High traffic generated an alert 
+hits: 	 1201 (10.01/sec) 
+time: 	 2019-02-07 21:12:36 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:12:30 
+Total number of hits: 192 
+
+Most hits: 
+(1) api: 162 
+(2) report: 30 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1     34
+4     api          GET   10.0.0.5     29
+1     api          GET   10.0.0.2     28
+5     api         POST   10.0.0.1     14
+2     api          GET   10.0.0.3     13 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    404   10.0.0.2     11
+2    404   10.0.0.1      8
+3    500   10.0.0.1      8
+4    404   10.0.0.3      5
+5    404   10.0.0.5      5 
+
+Bytes Load: 
+mean: 	 1233.85 
+std: 	 42.41 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:12:40 
+Total number of hits: 172 
+
+Most hits: 
+(1) api: 142 
+(2) report: 30 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+4     api          GET   10.0.0.5     32
+0     api          GET   10.0.0.1     27
+1     api          GET   10.0.0.2     22
+6     api         POST   10.0.0.2     13
+2     api          GET   10.0.0.3     12 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.1      9
+2    500   10.0.0.5      6
+3    500   10.0.0.3      5
+4    500   10.0.0.2      4
+5    404   10.0.0.1      3 
+
+Bytes Load: 
+mean: 	 1229.72 
+std: 	 43.05 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:12:50 
+Total number of hits: 174 
+
+Most hits: 
+(1) api: 144 
+(2) report: 30 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1     40
+4     api          GET   10.0.0.5     26
+1     api          GET   10.0.0.2     25
+2     api          GET   10.0.0.3     14
+9     api         POST   10.0.0.5     10 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.1     10
+2    500   10.0.0.5      8
+3    404   10.0.0.5      5
+4    500   10.0.0.2      4
+5    404   10.0.0.3      3 
+
+Bytes Load: 
+mean: 	 1230.68 
+std: 	 45.73 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:13:00 
+Total number of hits: 33 
+
+Most hits: 
+(1) api: 22 
+(2) report: 11 
+ 
+Top 5 most hits details: 
+   section request_type remotehost  count
+0      api          GET   10.0.0.1      4
+1      api          GET   10.0.0.2      4
+8      api         POST   10.0.0.4      3
+10  report          GET   10.0.0.2      3
+2      api          GET   10.0.0.3      2 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    404   10.0.0.1      2
+2    404   10.0.0.2      2
+3    404   10.0.0.3      1
+4    500   10.0.0.4      1 
+
+Bytes Load: 
+mean: 	 1229.09 
+std: 	 47.27 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:13:10 
+Total number of hits: 30 
+
+Most hits: 
+(1) api: 20 
+(2) report: 10 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1      5
+4     api          GET   10.0.0.5      4
+5     api         POST   10.0.0.1      4
+7  report          GET   10.0.0.1      4
+1     api          GET   10.0.0.2      3 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    404   10.0.0.1      1
+2    404   10.0.0.2      1
+3    404   10.0.0.5      1
+4    500   10.0.0.5      1 
+
+Bytes Load: 
+mean: 	 1254.7 
+std: 	 38.52 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:13:20 
+Total number of hits: 29 
+
+Most hits: 
+(1) api: 20 
+(2) report: 9 
+ 
+Top 5 most hits details: 
+   section request_type remotehost  count
+0      api          GET   10.0.0.1      4
+8      api         POST   10.0.0.5      4
+1      api          GET   10.0.0.2      3
+11  report         POST   10.0.0.1      3
+2      api          GET   10.0.0.3      2 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    404   10.0.0.1      1
+2    404   10.0.0.3      1
+3    404   10.0.0.5      1 
+
+Bytes Load: 
+mean: 	 1244.24 
+std: 	 44.31 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:13:30 
+Total number of hits: 28 
+
+Most hits: 
+(1) api: 18 
+(2) report: 10 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1      6
+1     api          GET   10.0.0.2      4
+8  report          GET   10.0.0.1      3
+9  report          GET   10.0.0.2      3
+2     api          GET   10.0.0.3      2 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    404   10.0.0.1      2
+2    404   10.0.0.3      2
+3    404   10.0.0.2      1 
+
+Bytes Load: 
+mean: 	 1221.61 
+std: 	 32.46 
+max: 	 1261 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:13:40 
+Total number of hits: 32 
+
+Most hits: 
+(1) api: 22 
+(2) report: 10 
+ 
+Top 5 most hits details: 
+   section request_type remotehost  count
+1      api          GET   10.0.0.2      5
+4      api          GET   10.0.0.5      5
+0      api          GET   10.0.0.1      4
+5      api         POST   10.0.0.1      3
+10  report          GET   10.0.0.4      3 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    404   10.0.0.1      3
+2    500   10.0.0.5      3
+3    404   10.0.0.5      1
+4    500   10.0.0.2      1 
+
+Bytes Load: 
+mean: 	 1236.69 
+std: 	 45.32 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:13:50 
+Total number of hits: 30 
+
+Most hits: 
+(1) api: 20 
+(2) report: 10 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1      6
+3     api          GET   10.0.0.5      6
+8  report          GET   10.0.0.1      3
+2     api          GET   10.0.0.4      2
+7     api         POST   10.0.0.5      2 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.1      2
+2    404   10.0.0.1      1
+3    404   10.0.0.2      1
+4    500   10.0.0.2      1
+5    500   10.0.0.4      1 
+
+Bytes Load: 
+mean: 	 1224.43 
+std: 	 44.63 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Alert 
+Alert ended at time: 2019-02-07 21:14:03 
+
+03-05 00:11 root         INFO     Alert 
+High traffic generated an alert 
+hits: 	 1201 (10.01/sec) 
+time: 	 2019-02-07 21:14:04 
+
+03-05 00:11 root         INFO     Alert 
+Alert ended at time: 2019-02-07 21:14:04 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:14:00 
+Total number of hits: 31 
+
+Most hits: 
+(1) api: 20 
+(2) report: 11 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1      6
+2     api          GET   10.0.0.3      5
+7  report          GET   10.0.0.2      5
+3     api          GET   10.0.0.4      3
+4     api          GET   10.0.0.5      3 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.1      2
+2    404   10.0.0.1      1
+3    404   10.0.0.3      1
+4    500   10.0.0.2      1 
+
+Bytes Load: 
+mean: 	 1235.97 
+std: 	 51.22 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:14:10 
+Total number of hits: 28 
+
+Most hits: 
+(1) api: 19 
+(2) report: 9 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1      5
+1     api          GET   10.0.0.2      5
+3     api          GET   10.0.0.5      4
+7  report          GET   10.0.0.1      3
+2     api          GET   10.0.0.3      2 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.1      3
+2    500   10.0.0.3      2
+3    404   10.0.0.2      1 
+
+Bytes Load: 
+mean: 	 1211.18 
+std: 	 48.16 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:14:20 
+Total number of hits: 32 
+
+Most hits: 
+(1) api: 21 
+(2) report: 11 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1      5
+3     api          GET   10.0.0.5      4
+8  report          GET   10.0.0.1      4
+5     api         POST   10.0.0.2      3
+1     api          GET   10.0.0.2      2 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.2      3
+2    404   10.0.0.5      2
+3    500   10.0.0.1      2
+4    404   10.0.0.1      1
+5    404   10.0.0.2      1 
+
+Bytes Load: 
+mean: 	 1225.94 
+std: 	 50.71 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:14:30 
+Total number of hits: 30 
+
+Most hits: 
+(1) api: 20 
+(2) report: 10 
+ 
+Top 5 most hits details: 
+   section request_type remotehost  count
+5      api         POST   10.0.0.1      5
+11  report          GET   10.0.0.2      4
+0      api          GET   10.0.0.1      3
+4      api          GET   10.0.0.5      3
+3      api          GET   10.0.0.4      2 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    404   10.0.0.3      1
+2    500   10.0.0.2      1
+3    500   10.0.0.5      1 
+
+Bytes Load: 
+mean: 	 1237.3 
+std: 	 45.96 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:14:40 
+Total number of hits: 30 
+
+Most hits: 
+(1) api: 20 
+(2) report: 10 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1      7
+4     api          GET   10.0.0.5      4
+1     api          GET   10.0.0.2      3
+3     api          GET   10.0.0.4      3
+7  report          GET   10.0.0.1      3 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.1      3
+2    404   10.0.0.2      2
+3    404   10.0.0.3      1
+4    404   10.0.0.5      1
+5    500   10.0.0.2      1 
+
+Bytes Load: 
+mean: 	 1219.27 
+std: 	 53.14 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:14:50 
+Total number of hits: 30 
+
+Most hits: 
+(1) api: 20 
+(2) report: 10 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+1     api          GET   10.0.0.2      6
+0     api          GET   10.0.0.1      3
+2     api          GET   10.0.0.3      3
+4     api          GET   10.0.0.5      3
+5     api         POST   10.0.0.1      3 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.2      2
+2    404   10.0.0.1      1
+3    404   10.0.0.2      1 
+
+Bytes Load: 
+mean: 	 1216.17 
+std: 	 47.08 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:15:00 
+Total number of hits: 30 
+
+Most hits: 
+(1) api: 20 
+(2) report: 10 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1      7
+3     api          GET   10.0.0.5      5
+8  report          GET   10.0.0.1      3
+1     api          GET   10.0.0.2      2
+4     api         POST   10.0.0.1      2 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    404   10.0.0.1      2
+2    404   10.0.0.4      1
+3    500   10.0.0.1      1 
+
+Bytes Load: 
+mean: 	 1218.77 
+std: 	 48.46 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:15:10 
+Total number of hits: 28 
+
+Most hits: 
+(1) api: 19 
+(2) report: 9 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1      5
+4     api         POST   10.0.0.1      4
+3     api          GET   10.0.0.5      3
+2     api          GET   10.0.0.3      2
+5     api         POST   10.0.0.2      2 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    404   10.0.0.1      1
+2    404   10.0.0.3      1
+3    500   10.0.0.1      1
+4    500   10.0.0.5      1 
+
+Bytes Load: 
+mean: 	 1221.71 
+std: 	 42.84 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:15:20 
+Total number of hits: 30 
+
+Most hits: 
+(1) api: 20 
+(2) report: 10 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1      7
+1     api          GET   10.0.0.2      4
+2     api          GET   10.0.0.4      3
+3     api          GET   10.0.0.5      3
+6  report          GET   10.0.0.1      3 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.1      2
+2    500   10.0.0.5      2
+3    404   10.0.0.1      1
+4    404   10.0.0.2      1
+5    404   10.0.0.4      1 
+
+Bytes Load: 
+mean: 	 1228.17 
+std: 	 33.65 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:15:30 
+Total number of hits: 285 
+
+Most hits: 
+(1) api: 255 
+(2) report: 30 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1     53
+4     api          GET   10.0.0.5     46
+1     api          GET   10.0.0.2     45
+3     api          GET   10.0.0.4     29
+5     api         POST   10.0.0.1     23 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.1     13
+2    500   10.0.0.2      8
+3    404   10.0.0.5      7
+4    500   10.0.0.4      7
+5    500   10.0.0.5      7 
+
+Bytes Load: 
+mean: 	 1231.81 
+std: 	 46.76 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:15:40 
+Total number of hits: 279 
+
+Most hits: 
+(1) api: 249 
+(2) report: 30 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1     61
+1     api          GET   10.0.0.2     41
+4     api          GET   10.0.0.5     39
+5     api         POST   10.0.0.1     25
+3     api          GET   10.0.0.4     24 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.1     12
+2    500   10.0.0.2     10
+3    404   10.0.0.1      7
+4    404   10.0.0.5      6
+5    404   10.0.0.2      5 
+
+Bytes Load: 
+mean: 	 1230.17 
+std: 	 49.64 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:15:50 
+Total number of hits: 276 
+
+Most hits: 
+(1) api: 246 
+(2) report: 30 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1     61
+1     api          GET   10.0.0.2     45
+4     api          GET   10.0.0.5     41
+5     api         POST   10.0.0.1     22
+2     api          GET   10.0.0.3     21 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    404   10.0.0.1     13
+2    500   10.0.0.1     11
+3    404   10.0.0.5      7
+4    500   10.0.0.2      6
+5    404   10.0.0.2      5 
+
+Bytes Load: 
+mean: 	 1231.72 
+std: 	 49.0 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Alert 
+High traffic generated an alert 
+hits: 	 1201 (10.01/sec) 
+time: 	 2019-02-07 21:16:03 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:16:00 
+Total number of hits: 280 
+
+Most hits: 
+(1) api: 250 
+(2) report: 30 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1     58
+4     api          GET   10.0.0.5     51
+1     api          GET   10.0.0.2     40
+5     api         POST   10.0.0.1     27
+2     api          GET   10.0.0.3     20 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.1     10
+2    404   10.0.0.1      8
+3    404   10.0.0.2      8
+4    500   10.0.0.5      7
+5    500   10.0.0.2      6 
+
+Bytes Load: 
+mean: 	 1230.0 
+std: 	 47.3 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:16:10 
+Total number of hits: 279 
+
+Most hits: 
+(1) api: 249 
+(2) report: 30 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+4     api          GET   10.0.0.5     52
+0     api          GET   10.0.0.1     47
+1     api          GET   10.0.0.2     43
+5     api         POST   10.0.0.1     26
+3     api          GET   10.0.0.4     19 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.5     12
+2    404   10.0.0.1      9
+3    404   10.0.0.2      8
+4    404   10.0.0.5      8
+5    500   10.0.0.2      6 
+
+Bytes Load: 
+mean: 	 1230.16 
+std: 	 43.8 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:16:20 
+Total number of hits: 281 
+
+Most hits: 
+(1) api: 251 
+(2) report: 30 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1     53
+4     api          GET   10.0.0.5     43
+1     api          GET   10.0.0.2     41
+3     api          GET   10.0.0.4     27
+2     api          GET   10.0.0.3     24 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.5     11
+2    500   10.0.0.2      9
+3    404   10.0.0.4      6
+4    404   10.0.0.5      6
+5    500   10.0.0.3      5 
+
+Bytes Load: 
+mean: 	 1228.47 
+std: 	 46.04 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:16:30 
+Total number of hits: 283 
+
+Most hits: 
+(1) api: 253 
+(2) report: 30 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1     61
+4     api          GET   10.0.0.5     41
+1     api          GET   10.0.0.2     37
+3     api          GET   10.0.0.4     29
+5     api         POST   10.0.0.1     22 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    404   10.0.0.1      9
+2    500   10.0.0.2      7
+3    404   10.0.0.5      6
+4    500   10.0.0.1      5
+5    500   10.0.0.5      5 
+
+Bytes Load: 
+mean: 	 1227.97 
+std: 	 48.61 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:16:40 
+Total number of hits: 285 
+
+Most hits: 
+(1) api: 255 
+(2) report: 30 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1     52
+1     api          GET   10.0.0.2     47
+4     api          GET   10.0.0.5     44
+2     api          GET   10.0.0.3     25
+5     api         POST   10.0.0.1     20 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.2      9
+2    500   10.0.0.5      9
+3    404   10.0.0.1      6
+4    404   10.0.0.2      6
+5    404   10.0.0.3      5 
+
+Bytes Load: 
+mean: 	 1230.54 
+std: 	 42.89 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:16:50 
+Total number of hits: 273 
+
+Most hits: 
+(1) api: 242 
+(2) report: 31 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1     62
+4     api          GET   10.0.0.5     46
+1     api          GET   10.0.0.2     40
+3     api          GET   10.0.0.4     24
+2     api          GET   10.0.0.3     21 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    404   10.0.0.2      7
+2    404   10.0.0.1      6
+3    404   10.0.0.5      6
+4    500   10.0.0.5      6
+5    500   10.0.0.2      5 
+
+Bytes Load: 
+mean: 	 1227.19 
+std: 	 44.78 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:17:00 
+Total number of hits: 18 
+
+Most hits: 
+(1) api: 9 
+(2) report: 9 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1      3
+5  report          GET   10.0.0.1      3
+1     api          GET   10.0.0.2      2
+4     api         POST   10.0.0.2      2
+7  report          GET   10.0.0.3      2 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    404   10.0.0.1      1
+2    404   10.0.0.3      1 
+
+Bytes Load: 
+mean: 	 1225.39 
+std: 	 52.39 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:17:10 
+Total number of hits: 22 
+
+Most hits: 
+(1) api: 11 
+(2) report: 11 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1      3
+3     api          GET   10.0.0.5      3
+7  report          GET   10.0.0.2      3
+2     api          GET   10.0.0.4      2
+9  report          GET   10.0.0.5      2 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.2      1
+2    500   10.0.0.4      1
+3    500   10.0.0.5      1 
+
+Bytes Load: 
+mean: 	 1222.18 
+std: 	 54.8 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:17:20 
+Total number of hits: 19 
+
+Most hits: 
+(1) api: 10 
+(2) report: 9 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+6  report          GET   10.0.0.1      3
+0     api          GET   10.0.0.1      2
+1     api          GET   10.0.0.3      2
+3     api          GET   10.0.0.5      2
+4     api         POST   10.0.0.2      2 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.5      2
+2    500   10.0.0.1      1
+3    500   10.0.0.3      1
+4    500   10.0.0.4      1 
+
+Bytes Load: 
+mean: 	 1221.63 
+std: 	 35.97 
+max: 	 1261 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:17:30 
+Total number of hits: 22 
+
+Most hits: 
+(1) api: 11 
+(2) report: 11 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1      5
+5  report          GET   10.0.0.1      4
+2     api         POST   10.0.0.1      2
+3     api         POST   10.0.0.2      2
+6  report          GET   10.0.0.4      2 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.1      2
+2    404   10.0.0.1      1
+3    404   10.0.0.4      1 
+
+Bytes Load: 
+mean: 	 1227.05 
+std: 	 54.6 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:17:40 
+Total number of hits: 19 
+
+Most hits: 
+(1) report: 10 
+(2) api: 9 
+ 
+Top 5 most hits details: 
+   section request_type remotehost  count
+0      api          GET   10.0.0.1      4
+6   report          GET   10.0.0.1      3
+8   report          GET   10.0.0.3      2
+11  report         POST   10.0.0.4      2
+1      api          GET   10.0.0.2      1 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    404   10.0.0.1      3
+2    404   10.0.0.4      1
+3    500   10.0.0.1      1
+4    500   10.0.0.3      1 
+
+Bytes Load: 
+mean: 	 1243.95 
+std: 	 39.6 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:17:50 
+Total number of hits: 20 
+
+Most hits: 
+(1) api: 10 
+(2) report: 10 
+ 
+Top 5 most hits details: 
+   section request_type remotehost  count
+11  report         POST   10.0.0.2      3
+0      api          GET   10.0.0.1      2
+1      api          GET   10.0.0.2      2
+3      api          GET   10.0.0.5      2
+4      api         POST   10.0.0.2      2 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    404   10.0.0.2      2
+2    404   10.0.0.3      2
+3    500   10.0.0.5      2
+4    404   10.0.0.5      1
+5    500   10.0.0.1      1 
+
+Bytes Load: 
+mean: 	 1235.9 
+std: 	 47.89 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:18:00 
+Total number of hits: 19 
+
+Most hits: 
+(1) api: 10 
+(2) report: 9 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1      5
+5  report          GET   10.0.0.1      3
+3     api         POST   10.0.0.1      2
+1     api          GET   10.0.0.2      1
+2     api          GET   10.0.0.5      1 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.1      1 
+
+Bytes Load: 
+mean: 	 1229.68 
+std: 	 39.42 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:18:10 
+Total number of hits: 20 
+
+Most hits: 
+(1) api: 10 
+(2) report: 10 
+ 
+Top 5 most hits details: 
+   section request_type remotehost  count
+0      api          GET   10.0.0.1      3
+1      api          GET   10.0.0.2      3
+12  report         POST   10.0.0.5      3
+6   report          GET   10.0.0.1      2
+2      api          GET   10.0.0.5      1 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.5      1 
+
+Bytes Load: 
+mean: 	 1222.05 
+std: 	 55.16 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Alert 
+Alert ended at time: 2019-02-07 21:18:22 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:18:20 
+Total number of hits: 19 
+
+Most hits: 
+(1) report: 10 
+(2) api: 9 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1      4
+6  report          GET   10.0.0.1      3
+7  report          GET   10.0.0.2      3
+8  report         POST   10.0.0.1      2
+1     api          GET   10.0.0.2      1 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.1      4
+2    404   10.0.0.1      1
+3    404   10.0.0.4      1
+4    500   10.0.0.2      1 
+
+Bytes Load: 
+mean: 	 1232.05 
+std: 	 35.42 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:18:30 
+Total number of hits: 22 
+
+Most hits: 
+(1) api: 11 
+(2) report: 11 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+0     api          GET   10.0.0.1      4
+2     api          GET   10.0.0.3      3
+9  report          GET   10.0.0.5      3
+1     api          GET   10.0.0.2      2
+6  report          GET   10.0.0.2      2 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.1      1
+2    500   10.0.0.5      1 
+
+Bytes Load: 
+mean: 	 1229.45 
+std: 	 50.89 
+max: 	 1307 
+
+03-05 00:11 root         INFO     Analytics 
+10-Second Report 
+Start time: 2019-02-07 21:18:40 
+Total number of hits: 21 
+
+Most hits: 
+(1) api: 11 
+(2) report: 10 
+ 
+Top 5 most hits details: 
+  section request_type remotehost  count
+7  report          GET   10.0.0.1      5
+0     api          GET   10.0.0.1      4
+6     api         POST   10.0.0.5      2
+8  report          GET   10.0.0.5      2
+1     api          GET   10.0.0.2      1 
+
+Top 5 errors by status code: 
+  status remotehost  count
+1    500   10.0.0.1      5
+2    404   10.0.0.5      1
+3    500   10.0.0.4      1 
+
+Bytes Load: 
+mean: 	 1221.62 
+std: 	 43.54 
+max: 	 1307 
+
